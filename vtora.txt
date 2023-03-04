@@ -1,1 +1,1 @@
-This is the second file in my homework project.
+This is the second txt file in my homework project.
